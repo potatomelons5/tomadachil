@@ -1,4 +1,4 @@
-name: Deploy tomadachi to GitHub Pages
+name: Deploy gambling to GitHub Pages
 
 on:
   push:
@@ -30,7 +30,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './Tomodachi'
+          path: './flip-coin'
 
       - name: Deploy to GitHub Pages
         id: deployment
