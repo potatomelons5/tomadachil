@@ -1,4 +1,4 @@
-name: Deploy gambling to GitHub Pages
+name: Deploy rimworld to GitHub Pages
 
 on:
   push:
