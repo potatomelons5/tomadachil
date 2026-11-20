@@ -1,4 +1,4 @@
-name: Deploy btd6 to GitHub Pages
+name: Deploy tomadachi to GitHub Pages
 
 on:
   push:
